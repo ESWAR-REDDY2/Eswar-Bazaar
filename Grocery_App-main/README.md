@@ -1,4 +1,4 @@
-**Venu Mart Grocery App**
+**Eswar Essentials **
 
   ✅This is a Django-based web application for a Grocery Store where users can:
   
@@ -12,9 +12,7 @@
 
 **🗂️ Project Structure**
 
- ![image](https://github.com/user-attachments/assets/7b39ba95-740f-4134-b73a-6eb31d4498ab)
 
-![image](https://github.com/user-attachments/assets/8060a547-fde9-4979-8c19-7d041bac5761)
 
 **Step-by-step structured explanation of your grocery Django project files and their purpose (without code) for clear understanding and revision:**
 
@@ -149,23 +147,6 @@
 
 **output:**
 
-![1](https://github.com/user-attachments/assets/77e8c7c3-2895-4442-b3eb-45ad0f557ab6)
-
-![2](https://github.com/user-attachments/assets/e80dd2a8-d397-493d-b04e-c6ad4a563084)
-
-![3](https://github.com/user-attachments/assets/5e11f975-d746-4f57-b6ee-70e3bcbd2814)
-
-![4](https://github.com/user-attachments/assets/4e2e6cd4-124f-4731-b9bc-8bc8cd35c315)
-
-![5](https://github.com/user-attachments/assets/e040758b-b77b-4910-ad61-9f7c0e32ee1e)
-
-![6](https://github.com/user-attachments/assets/88b7131f-fd95-435f-a263-433729e28281)
-
-![7](https://github.com/user-attachments/assets/0456b97b-6594-4324-a5ef-2ecc4b2952e1)
-
-![9](https://github.com/user-attachments/assets/e643b607-56b9-4048-9816-abc9ca647b03)
-
-![10](https://github.com/user-attachments/assets/590a9b61-ac06-4f7b-a29f-281d5ffce66e)
 
 
 **Final Conclusion for Your Grocery Django App Project**
